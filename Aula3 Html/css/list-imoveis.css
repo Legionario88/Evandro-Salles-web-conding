@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.rodape{
+    position: fixed;
+    bottom: 0;
+    background-image: linear-gradient(bisque, orange);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 80px;    
+    text-align: center;
+    line-height: 100px;
+    
+}
+
+.header{
+    text-align: center;
+    background-image: linear-gradient(orange, bisque);
+    
+}
+
+.background{
+    background-color: bisque;
+}
